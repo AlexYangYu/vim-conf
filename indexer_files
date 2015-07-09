@@ -1,0 +1,6 @@
+# indexer file example
+# put this file as ~/.indexer_files
+#
+# Example:
+# [project name]
+# /project/path
