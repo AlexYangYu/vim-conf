@@ -153,10 +153,10 @@ set hlsearch
 
 " >>
 " 其他美化
-
+set rtp+=/Library/Python/2.7/site-packages/powerline/bindings/vim/
 " 设置 gvim 显示字体
 set guifont=YaHei\ Consolas\ Hybrid\ 11.5
-" set guifont=Liberation\ Mono\ for\ Powerline\ 10
+set guifont=Liberation\ Mono\ for\ Powerline\ 10
 
 " 禁止折行
 set nowrap
